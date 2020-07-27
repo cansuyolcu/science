@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>  on Can Suyolcu</title>
+    <link>https://cansuyolcu.github.io/science/</link>
+    <description>Recent content in   on Can Suyolcu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://cansuyolcu.github.io/science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project: KNN</title>
+      <link>https://cansuyolcu.github.io/science/post/project-5/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cansuyolcu.github.io/science/post/project-5/</guid>
+      <description>In this project I worked with a classified data set from a company. This will be a simple project in order to classify the target class.
+  Github link to this project</description>
+    </item>
+    
+    <item>
+      <title>Project: Logistic Regression</title>
+      <link>https://cansuyolcu.github.io/science/post/project-4/</link>
+      <pubDate>Sun, 26 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://cansuyolcu.github.io/science/post/project-4/</guid>
+      <description>In this project I worked with the Titanic Data Set from Kaggle. I tried to predict a classification- survival or deceased implementing Logistic Regression in Python for classification.
+  Github link to this project</description>
+    </item>
+    
+    <item>
+      <title>Project: Linear Regression</title>
+      <link>https://cansuyolcu.github.io/science/post/project-3/</link>
+      <pubDate>Tue, 14 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://cansuyolcu.github.io/science/post/project-3/</guid>
+      <description>In this project I&amp;rsquo;ll be using linear regression in order to decide for a company whether to focus their efforts on a mobile app experience or a website.
+  Github link to this project</description>
+    </item>
+    
+    <item>
+      <title>Project: 911 Calls</title>
+      <link>https://cansuyolcu.github.io/science/post/project-1/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cansuyolcu.github.io/science/post/project-1/</guid>
+      <description>This is an exercise project in order to practice my Pandas, NumPy, Seaborn and Matplotlib skills in Python.
+For this capstone project I will be analyzing some 911 call data from Kaggle.
+  Github link to this project</description>
+    </item>
+    
+    <item>
+      <title>Project: Financial Crisis</title>
+      <link>https://cansuyolcu.github.io/science/post/project-2/</link>
+      <pubDate>Sat, 11 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://cansuyolcu.github.io/science/post/project-2/</guid>
+      <description>In this data project I focus on exploratory data analysis of stock prices and see how they progressed throughout the financial crisis all the way to early 2016.
+  Github link to this project</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://cansuyolcu.github.io/science/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cansuyolcu.github.io/science/contact/</guid>
+      <description>You can follow me on these social media platforms.
+   Platform URL     LinkedIn: https://www.linkedin.com/in/can-suyolcu-0a330a190/   Medium: https://medium.com/@can.suyolcu95   Github: https://github.com/CanSuyolcu    </description>
+    </item>
+    
+  </channel>
+</rss>
