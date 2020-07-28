@@ -6,10 +6,21 @@
     <description>Recent content in   on Can Suyolcu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cansuyolcu.github.io/science/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Random_Forest_Project</title>
+      <link>https://cansuyolcu.github.io/science/post/project-6/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cansuyolcu.github.io/science/post/project-6/</guid>
+      <description>For this project I will be exploring publicly available data from LendingClub.com. I use lending data from 2007-2010 and be trying to classify and predict whether or not the borrower paid back their loan in full.
+Here are what the columns represent:
+ credit.policy: 1 if the customer meets the credit underwriting criteria of LendingClub.com, and 0 otherwise. purpose: The purpose of the loan (takes values &amp;ldquo;credit_card&amp;rdquo;, &amp;ldquo;debt_consolidation&amp;rdquo;, &amp;ldquo;educational&amp;rdquo;, &amp;ldquo;major_purchase&amp;rdquo;, &amp;ldquo;small_business&amp;rdquo;, and &amp;ldquo;all_other&amp;rdquo;).</description>
+    </item>
     
     <item>
       <title>Project: KNN</title>
