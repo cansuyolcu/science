@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Project: K Means Clustering</title>
+      <link>https://cansuyolcu.github.io/science/post/project-8/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cansuyolcu.github.io/science/post/project-8/</guid>
+      <description>For this project I will attempt to use KMeans Clustering to cluster Universities into to two groups, Private and Public. It is very important to note, I actually have the labels for this data set, but I will NOT use them for the KMeans clustering algorithm, since that is an unsupervised learning algorithm. I will use the labels to try to get an idea of how well the algorithm performed.</description>
+    </item>
+    
+    <item>
       <title>Project: IRIS Dataset</title>
       <link>https://cansuyolcu.github.io/science/post/project-7/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
