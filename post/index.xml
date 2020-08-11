@@ -12,6 +12,28 @@
     
     
     <item>
+      <title>Project: Natural Language Processing</title>
+      <link>https://cansuyolcu.github.io/science/post/project-10/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cansuyolcu.github.io/science/post/project-10/</guid>
+      <description>In this NLP project I will be attempting to classify Yelp Reviews into 1 star or 5 star categories based off the text content in the reviews.
+I will be using Yelp Review Data Set from Kaggle.
+Each observation in this dataset is a review of a particular business by a particular user.
+The &amp;ldquo;stars&amp;rdquo; column is the number of stars (1 through 5) assigned by the reviewer to the business.</description>
+    </item>
+    
+    <item>
+      <title>Project: Recommendation Systems</title>
+      <link>https://cansuyolcu.github.io/science/post/project-9/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cansuyolcu.github.io/science/post/project-9/</guid>
+      <description>For this project I will use recommendation system to find similar movies to Star Wars and Liar Liar.
+  Github link to this project</description>
+    </item>
+    
+    <item>
       <title>Project: K Means Clustering</title>
       <link>https://cansuyolcu.github.io/science/post/project-8/</link>
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
