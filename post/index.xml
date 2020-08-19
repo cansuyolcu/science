@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>Project: Keras API</title>
+      <link>https://cansuyolcu.github.io/science/post/project-11/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cansuyolcu.github.io/science/post/project-11/</guid>
+      <description>I will be using a subset of the LendingClub DataSet obtained from Kaggle.
+LendingClub is a US peer-to-peer lending company, headquartered in San Francisco, California. It was the first peer-to-peer lender to register its offerings as securities with the Securities and Exchange Commission (SEC), and to offer loan trading on a secondary market. LendingClub is the world&amp;rsquo;s largest peer-to-peer lending platform.
+Given historical data on loans given out with information on whether or not the borrower defaulted (charge-off),I will build a model that can predict whether or not a borrower will pay back their loan.</description>
+    </item>
+    
+    <item>
       <title>Project: Natural Language Processing</title>
       <link>https://cansuyolcu.github.io/science/post/project-10/</link>
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
