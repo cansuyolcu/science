@@ -6,10 +6,23 @@
     <description>Recent content in   on Can Suyolcu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cansuyolcu.github.io/science/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Project: Classification for Human Resources</title>
+      <link>https://cansuyolcu.github.io/science/post/project-12/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cansuyolcu.github.io/science/post/project-12/</guid>
+      <description>For this project I&amp;rsquo;ll be using Deep Learning for a Human Resources Department in order to predict which employees are more likely to quit. I will be exploring and analyzing the dataset from kaggle.com.
+Education 1 &amp;lsquo;Below College&amp;rsquo; 2 &amp;lsquo;College&amp;rsquo; 3 &amp;lsquo;Bachelor&amp;rsquo; 4 &amp;lsquo;Master&amp;rsquo; 5 &amp;lsquo;Doctor&amp;rsquo;
+EnvironmentSatisfaction 1 &amp;lsquo;Low&amp;rsquo; 2 &amp;lsquo;Medium&amp;rsquo; 3 &amp;lsquo;High&amp;rsquo; 4 &amp;lsquo;Very High&amp;rsquo;
+JobInvolvement 1 &amp;lsquo;Low&amp;rsquo; 2 &amp;lsquo;Medium&amp;rsquo; 3 &amp;lsquo;High&amp;rsquo; 4 &amp;lsquo;Very High&amp;rsquo;
+JobSatisfaction 1 &amp;lsquo;Low&amp;rsquo; 2 &amp;lsquo;Medium&amp;rsquo; 3 &amp;lsquo;High&amp;rsquo; 4 &amp;lsquo;Very High&amp;rsquo;</description>
+    </item>
     
     <item>
       <title>Project: Keras API</title>
