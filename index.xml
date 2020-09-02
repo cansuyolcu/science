@@ -6,10 +6,21 @@
     <description>Recent content in   on Can Suyolcu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cansuyolcu.github.io/science/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Project: Time Series</title>
+      <link>https://cansuyolcu.github.io/science/post/project-15/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cansuyolcu.github.io/science/post/project-15/</guid>
+      <description>Project_Time_Series In this project I&amp;rsquo;ll be developing time series forecasting models to predict future product prices using Facebook Prophet.
+Some information about the dataset are:
+ almost a million observation 1115 unique stores Note that sales is the target variable (that&amp;rsquo;s what we are trying to predict) Id: transaction ID (combination of Store and date) Store: unique store Id Sales: sales/day, this is the target variable Customers: number of customers on a given day Open: Boolean to say whether a store is open or closed (0 = closed, 1 = open) Promo: describes if store is running a promo on that day or not StateHoliday: indicate which state holiday (a = public holiday, b = Easter holiday, c = Christmas, 0 = None) SchoolHoliday: indicates if the (Store, Date) was affected by the closure of public schools    Github link to this project</description>
+    </item>
     
     <item>
       <title>Project: Customer segmentation</title>
