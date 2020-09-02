@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Project: Disease Detection Automation</title>
+      <link>https://cansuyolcu.github.io/science/post/project-16/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cansuyolcu.github.io/science/post/project-16/</guid>
+      <description>I will automate the process of detecting and classifying chest disease and reduce the cost and time of detection. There are 133 X-Ray chest images that belong to 4 classes:
+ Healthy Covid-19 Bacterial Pneumonia Viral Pneumonia    Github link to this project</description>
+    </item>
+    
+    <item>
       <title>Project: Time Series</title>
       <link>https://cansuyolcu.github.io/science/post/project-15/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
